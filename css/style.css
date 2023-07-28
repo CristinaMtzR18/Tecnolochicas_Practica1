@@ -1,0 +1,83 @@
+/* Estilo para los artículos */
+article {
+  background-color: #9fe6fa;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* Estilo para el encabezado de los artículos */
+article h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo para los subtítulos */
+article h3, article h4 {
+  color: #555;
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo para los párrafos dentro de los artículos */
+article p {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo para las listas dentro de los artículos */
+article ul, article ol {
+  margin-bottom: 10px;
+}
+
+/* Estilo para los elementos de lista dentro de los artículos */
+article li {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 5px;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo para las imágenes dentro de los artículos */
+article img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Estilo para las figuras dentro de los artículos */
+article figure {
+  margin-bottom: 10px;
+}
+
+/* Estilo para las leyendas de las figuras dentro de los artículos */
+article figcaption {
+  color: #666;
+  font-size: 14px;
+  margin-top: 5px;
+  font-family: Arial, sans-serif;
+}
+
+/* Estilo para los encabezados de nivel 4 dentro de los artículos */
+article h4 {
+  color: #333;
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 14px;
+    color: #666;
+  }
+  
